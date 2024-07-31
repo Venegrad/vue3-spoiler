@@ -53,9 +53,10 @@ All you need to do is attach a watch event to the v-model value, but if that's n
 - `@close` =  return new Date() when spoiler is closed
 
 ## Slots
--`Default` = elements for hidden block
--`button` = (Optional) button inner 
--`angle` = (Optional) button angle 
+- `Default` = elements for hidden block 
+- `button` = (Optional) button inner  
+- `angle` = (Optional) button angle  
+
 See example below:
 
 ## Simple example

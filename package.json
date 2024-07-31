@@ -1,6 +1,6 @@
 {
   "name": "@venegrad/vue3-spoiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spoiler for vue3 and nuxt3, hide show block",
   "author": "venegrad <venegrad@gmail.com> (https://venegrad.com/)",
   "license": "MIT",
